@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaTestProject", "AkkaTestProject\AkkaTestProject.csproj", "{E04E2E31-1DFF-4E22-8163-4A78002B821F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaTestProject.Tests", "AkkaTestProject.Tests\AkkaTestProject.Tests.csproj", "{291FE68A-A5DD-4D2E-99DF-4E488B910FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04E2E31-1DFF-4E22-8163-4A78002B821F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04E2E31-1DFF-4E22-8163-4A78002B821F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04E2E31-1DFF-4E22-8163-4A78002B821F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04E2E31-1DFF-4E22-8163-4A78002B821F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{291FE68A-A5DD-4D2E-99DF-4E488B910FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291FE68A-A5DD-4D2E-99DF-4E488B910FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291FE68A-A5DD-4D2E-99DF-4E488B910FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291FE68A-A5DD-4D2E-99DF-4E488B910FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

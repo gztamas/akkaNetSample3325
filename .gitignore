@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AkkaTestProject/bin/Debug
+/.vs/AkkaTestProject/v14/.suo
+/AkkaTestProject/obj/Debug
+/AkkaTestProject.Tests/bin/Debug
+/AkkaTestProject.Tests/obj/Debug
+/packages
+/AkkaTestProject.sln.DotSettings.user
